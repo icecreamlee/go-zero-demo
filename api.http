@@ -1,0 +1,8 @@
+GET http://localhost:8888/api/order/get/1
+
+###
+GRPC localhost:8080/user.User/getUser
+
+{
+    "id": "1"
+}
